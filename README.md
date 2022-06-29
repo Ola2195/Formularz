@@ -3,8 +3,8 @@
 ### Form with pictures
 This project allows you to add information about the user along with a picture to the database. Authorized users can view a table containing all users and they are allow to edit or delete records.
 
-Aythorized user - datas:
-Login: admin1
+Aythorized user - datas: <br>
+Login: admin1 <br>
 Password: zaq1@WSX
 
 ## Technologies
